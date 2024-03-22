@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "j1",
+      "descricao": "Descrição do Jogo 1",
+      "foto": "Cyber-Hunter.jpg",
+      "preco": "250"
+    },
+    {
+      "id": "2",
+      "produto": "j2",
+      "descricao": "Descrição do Jogo 2",
+      "foto": "qiqi.jpg",
+      "preco": "350"
+    },
+    {
+      "id": "3",
+      "produto": "j3",
+      "descricao": "Descrição do Jogo 3",
+      "foto": "ff.jpg",
+      "preco": "100"
+    },
+    {
+      "id": "4",
+      "produto": "j4",
+      "descricao": "Descrição do Jogo 4",
+      "foto": "cod.jpg",
+      "preco": "400"
+    }
+  ]
+}
